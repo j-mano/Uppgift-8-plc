@@ -1,0 +1,16 @@
+Sammanfattning  
+I denna uppgift ska du skapa ett program i något av programmeringsspråken: ladder diagram eller function block diagram. Leveransen består i en bild av detta program.
+
+Uppgift  
+
+Skapa ett program i ladder diagram eller function block diagram som uppfyller följande funktion:
+
+"När BUTTON_1 tryckts ned 3 gånger så tänds LAMP_GREEN. När LAMP_GREEN är PÅ, och om BUTTON_2 då trycks ned 3 gånger så släcks LAMP_GREEN."
+"When BUTTON_1 is pressed 3 times LAMP_GREEN is switched ON. Once LAMP_GREEN is ON, if BUTTON_2 is pressed 3 times, LAMP_GREEN is switched OFF."
+Leverans  
+Du dokumenterar din lösning på valfritt men adekvat sätt. Lösningen ska sedan levereras som en bildfil av godkänt format.
+
+Exempel på adekvata sätt att producera lösningen:
+
+Lösning i mjukvara samt tydlig printscreen - kan med fördel göras i CoDeSys
+Lösning på papper som scannas eller fotograferas
